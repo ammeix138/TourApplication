@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">Tour Seattle</string>
+
+
+    <!--Displays the name of the Tab being displayed to the user.-->
+    <string name="category_attractions">Seattle \nTour</string>
+    <string name="category_events">Calendar Events</string>
+    <string name="category_hotels">Book A Hotel</string>
+    <string name="category_restaurants">Eateries</string>
+
+    <!--Displays the name of the attraction within the "Attraction Fragment"-->
+    <string name="name_pike_place">Pike Place Market</string>
+    <string name="name_space_needle">The Space Needle</string>
+    <string name="name_pioneer_square">Pioneer Square</string>
+    <string name="name_seattle_aquarium">Seattle Aquarium</string>
+    <string name="name_science_center">The Pacific Science Center</string>
+    <string name="name_flight_museum">The Museum of Flight</string>
+    <string name="name_woodland_park">The Woodland Park Zoo</string>
+    <string name="name_emp_museum">EMP Museum</string>
+    <string name="name_great_wheel">Seattle Great Wheel</string>
+    <string name="name_tillicum">Tillicum Village</string>
+    <string name="name_henry_art">The Henry Art Gallery</string>
+    <string name="name_centurylink_field">CenturyLink Field</string>
+    <string name="name_safeco_field">Safeco Field</string>
+
+    <!--Displays the Description of each attraction within the "Attraction Fragment"-->
+    <string name="description_safeco_field">"Safeco Field is a retractable roof baseball stadium
+        located in Seattle, Washington. Owned and operated by the Washington State Major League
+        Baseball Stadium Public Facilities District, it is the home stadium of the Seattle Mariners
+        of Major League Baseball and has a seating capacity of 47,943 for baseball. "</string>
+    <string name="Description_pike_place">Pike Place Market is a public market overlooking the
+        Elliott Bay waterfront in Seattle, Washington, United States. The Market opened
+        August 17, 1907, and is one of the oldest continuously operated public farmers markets in
+        the United States. It is a place of business for many small farmers, craftspeople and
+        merchants.</string>
+    <string name="description_space_needle">The Space Needle is an observation tower in Seattle,
+        Washington, a landmark of the Pacific Northwest, and an icon of Seattle.
+        It was built in the Seattle Center for the 1962 World\'s Fair, which drew over
+        2.3 million visitors, when nearly 20,000 people a day used its elevators.</string>
+    <string name="description_pioneer_square">Pioneer Square is a neighborhood in the southwest
+        corner of Downtown Seattle, Washington, USA. It was once the heart of the city: Seattle\'s
+        founders settled there in 1852, following a brief six-month settlement at Alki Point on the
+        far side of Elliott Bay. The early structures in the neighborhood were mostly wooden, and
+        nearly all burned in the Great Seattle Fire of 1889. By the end of 1890, dozens of brick
+        and stone buildings had been erected in their stead; to this day, the architectural
+        character of the neighborhood derives from these late 19th century buildings</string>
+    <string name="description_seattle_aquarium">The Seattle Aquarium is a public aquarium opened
+        in 1977 and located on Pier 59 on the Elliott Bay waterfront in Seattle, Washington, USA.
+        It is accredited by the Association of Zoos and Aquariums.</string>
+    <string name="description_science_center">"The Pacific Science Center is a science museum
+        located in Seattle, Washington and designed by Minoru Yamasaki for the 1962 World’s
+        Fair in Seattle. Pacific Science Center is an independent, non-profit science museum based
+        in Seattle, Washington. It sits on 7.1 acres of land located on the south side of the
+        Seattle Center. "</string>
+    <string name="description_flight_museum">"The Museum of Flight is a private non-profit air and
+        space museum in the northwest United States. It is located at the southern end of King
+        County International Airport, in the city of Tukwila, just south of Seattle.
+        It was established in 1965 and is fully accredited by the American Alliance of Museums. "</string>
+    <string name="description_woodland_park">Woodland Park Zoo is a zoological garden located in
+        the Phinney Ridge neighborhood of Seattle, Washington. Occupying the western half of
+        Woodland Park, the zoo began as a small menagerie on the estate of Guy C. Phinney,
+        a Canadian-born lumber mill owner and real estate developer.</string>
+    <string name="decription_emp_museum">EMP Museum is a nonprofit museum, dedicated to contemporary
+        popular culture. EMP Museum was founded by Microsoft co-founder Paul Allen in 2000.
+        Since that time EMP has organized dozens of exhibits, 17 of which have toured across the US
+        and internationally.</string>
+    <string name="description_great_wheel">The Seattle Great Wheel is a giant Ferris wheel at Pier
+        57 on Elliott Bay in Seattle, Washington. With an overall height of 175 feet,
+        it was the tallest Ferris wheel on the West Coast of the United States when it opened
+        on June 29, 2012.</string>
+    <string name="description_tillicum">Tillicum Village is a Puget Sound area visitor attraction
+        located on Blake Island just off the shore of Seattle, WA. It is believed that this
+        attraction dates to the time period immediately preceding the 1962 Seattle World\'s Fair.
+        The Tillicum Village attraction features a scenic cruise from Seattle\'s central waterfront
+        aboard a passenger vessel operated by Argosy Cruises.</string>
+    <string name="description_henry_art">The Henry Art Gallery is the art museum of the University
+        of Washington in Seattle, Washington, USA. Located on the west edge of the university\'s
+        campus along 15th Avenue N.E. in the University District, it was founded in February, 1927,
+        and was the first public art museum in the state of Washington.</string>
+    <string name="description_centurylink_field">CenturyLink Field is a multi-purpose stadium in
+        Seattle, Washington, United States. It is the home field for the Seattle Seahawks of
+        the National Football League and Seattle Sounders FC of Major League Soccer.
+        Originally called Seahawks Stadium it became Qwest Field on June 23, 2004,
+        when telecommunications carrier Qwest acquired the naming rights. It received its current
+        name in June 2011 after Qwest\'s acquisition by CenturyLink.</string>
+
+    <!--Displays the name of the restaurant within the "Restaurant Fragment"-->
+    <string name="name_crab_pot">The Crab Pot</string>
+    <string name="name_six_seven_R"><![CDATA[Six, Seven Restaurant & Lounge]]></string>
+    <string name="name_pike_chowder_R">Pike Place Chowder</string>
+    <string name="name_hilltop_ale_R">HillTop Ale House</string>
+    <string name="name_ruths_chris_R">Ruth\'s Chris Steak House</string>
+    <string name="name_skycity_R">SkyCity Restaurant</string>
+    <string name="name_canilis_R">Canilis</string>
+    <string name="name_manekis_R">Maneki\'s</string>
+    <string name="name_palisade_R">Palisade Restaurant</string>
+    <string name="name_brooklyn_sea_R"><![CDATA[The Brooklyn Seafood, Steak, & Oyster House]]></string>
+    <string name="name_metro_grill_R">The Metropolitan Grill</string>
+    <string name="name_rockcreek_R">RockCreek</string>
+    <string name="name_taylor_shell_R">Taylor Shellfish Oyster Bar</string>
+
+    <!--Displays the event location in the "Events Fragment"-->
+    <string name="name_fairmont_E">Location: Fairmont Olympic Hotel</string>
+    <string name="name_sheraton_E">Location: Sheraton Hotel</string>
+    <string name="name_pike_market_E">Location: Pike Place Market</string>
+    <string name="name_paramount_E">"Location: Paramount Theatre</string>
+    <string name="name_centurylink_E">Location: CenturyLink Field</string>
+    <string name="name_paramount2_E">Location: Paramount Theatre</string>
+    <string name="name_tacoma_E">Location: Tacoma Dome</string>
+    <string name="name_mccaw_hall_E">Location: McCaw Hall</string>
+    <string name="name_downtown_E">Location: Downtown Seattle</string>
+    <string name="name_seattle_E">Location: Seattle</string>
+    <string name="name_tacoma_zoo_E">Location: Tacoma Zoo</string>
+    <string name="name_space_needle_E">Location: Seattle Space Needle</string>
+
+    <!--Displays the names of the hotel in the "Hotel Fragment"-->
+    <string name="name_fairmont_H">Fairmont Olypic Hotel</string>
+    <string name="name_sorrento_H">Hotel Sorrento</string>
+    <string name="name_alexis_H">Alexis Hotel</string>
+    <string name="name_deca_H">Hotel Deca</string>
+    <string name="name_paramount_H">Paramount Hotel</string>
+    <string name="name_arctic_H">The Arctic club</string>
+    <string name="name_four_seasons_H">Four Seasons Hotel Seattle</string>
+    <string name="name_silver_cloud_H">Silver Cloud Hotel</string>
+    <string name="name_marriot_H">Seattle Marriot Hotel</string>
+    <string name="name_edgewater_H">The Edgewater Hotel</string>
+    <string name="name_hyatt_H">Grand Hyatt Seattle</string>
+    <string name="name_sheraton_H">Sheraton Hotel</string>
+    <string name="name_watertown_H">Watertown Hotel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Display the Phone Number for the "Hotel Fragment"-->
+    <string name="hotel_fairmont_phone">Phone:(206) 621-1700</string>
+    <string name="hotel_sorrento_phone">Phone:(206) 622-6400</string>
+    <string name="hotel_alexis_phone">Phone: (206) 624-4844</string>
+    <string name="hotel_deca_phone">Phone: (206) 634-2000</string>
+    <string name="hotel_paramount_phone">Phone: (206) 634-2000</string>
+    <string name="hotel_arctic_phone">Phone: (206) 340-0340</string>
+    <string name="hotel_4seasons_phone">Phone: (206) 749-7000</string>
+    <string name="hotel_silverCloud_phone">Phone: (206) 204-9800</string>
+    <string name="hotel_marriot_phone">Phone: (206) 443-5000</string>
+    <string name="hotel_edgewater_phone">Phone: (206) 728-7000</string>
+    <string name="hotel_grandHyatt_phone">Phone: (206) 774-1234</string>
+    <string name="hotel_sheraton_phone">Phone: (206) 621-9000</string>
+    <string name="hotel_watertown_phone">Phone: (206) 826-4242</string>
+
+    <!--Displays the address for the "Hotel Fragment"-->
+    <string name="hotel_fairmont_address">\n\n411 University St, Seattle, WA 98101</string>
+    <string name="hotel_sorrento_address">\n\n900 Madison St, Seattle, WA 98104</string>
+    <string name="hotel_alexis_address">\n\n1007 1st Ave, Seattle, WA 98104</string>
+    <string name="hotel_deca_address">"\n\n4507 Brooklyn Ave NE, Seattle, WA 98105 "</string>
+    <string name="hotel_paramount_address">\n\n724 Pine St, Seattle, WA 98101</string>
+    <string name="hotel_arcticClub_address">"\n\n700 3rd Ave, Seattle, WA 98104 "</string>
+    <string name="hotel_4Seasons_address">\n\n99 Union St, Seattle, WA 98101</string>
+    <string name="hotel_silverCloud_address">"\n\n1046 1st Ave S, Seattle "</string>
+    <string name="hotel_marriot_address">"\n\n2100 Alaskan Way, Seattle, WA 98121 "</string>
+    <string name="hotel_edgewater_address">"\n\n2411 Alaskan Way, Seattle, WA 98121 "</string>
+    <string name="hotel_grandHyatt_address">\n\n721 Pine St, Seattle, WA 98101</string>
+    <string name="hotel_sheraton_address">\n\n1400 6th Ave, Seattle, WA 98101</string>
+    <string name="hotel_watertown_address">\n\n4242 Roosevelt Way NE, Seattle, WA 98105</string>
+
+    <!--Displays the name of the event within the "Event Fragment"-->
+    <string name="event_festivalTrees">Name: Festival of Trees</string>
+    <string name="event_gingerbreadVillage">Event: Gingerbread Village</string>
+    <string name="event_magicInMarket">Event: Magic In The Market</string>
+    <string name="event_King_and_I">Event: \"The King And I\"</string>
+    <string name="event_seahawkGame">Event: Seattle Seahawks VS.Carolina Panthers</string>
+    <string name="event_rent">Event: \"Rent\"</string>
+    <string name="event_floridaGeorgiaLine">Event: Florida Georgia Line</string>
+    <string name="event_nutCracker">Event: \"The NutCracker\"</string>
+    <string name="event_thanksgivingParade">Event: Macy\'s Thanksgiving Day Parade</string>
+    <string name="event_jingleDash">Event: Jingle Bell Dash</string>
+    <string name="event_lightsFestival">Event: Christmas Lights Festival</string>
+    <string name="event_newYears">Event: New Years Eve</string>
+
+    <!--Displays the name of the date for the event within in the "Event Fragment" -->
+    <string name="date_nov19">\nDate: Nov. 19th, 2016</string>
+    <string name="date_nov22">\nDate: Nov. 22nd, 2016</string>
+    <string name="date_nov26">\nDate: Nov. 26th, 2016</string>
+    <string name="date_dec8">\nDate: Dec. 8th, 2016</string>
+    <string name="date_dec4">\nDate: Dec. 4th, 2016</string>
+    <string name="dae_feb26">\nDate: Feb. 26th, 2016</string>
+    <string name="date_nov11">\nDate: Nov. 11th, 2016</string>
+    <string name="date_nov8">\nDate: Nov. 8th, 2016</string>
+    <string name="date_nov24">\nDate: Nov. 24th, 2016</string>
+    <string name="date_dec3">\nDate: Dec. 3rd, 2016</string>
+    <string name="date_dec16">\nDate: Dec. 16th, 2016</string>
+    <string name="date_dec31">\nDate: Dec. 31st, 2016</string>
+
+    <!--Displays the phone number for the restaurants within the "Restaurants Fragment"-->
+    <string name="phone_crabPot">Phone:   (206) 624-1890</string>
+    <string name="phone_sixSevenR">Phone: (206) 269-4575</string>
+    <string name="phone_pike_place">Phone: (206) 838-5680</string>
+    <string name="phone_hilltopAle">Phone: (206) 285-3877</string>
+    <string name="phone_ruthsChris">Phone: (206) 624-8524</string>
+    <string name="phone_skycity">Phone: (206) 905-2100</string>
+    <string name="phone_canilis">Phone: (206) 283-3313</string>
+    <string name="phone_manekis">Phone: (206) 622-2631</string>
+    <string name="phone_palisadeR">Phone: (206) 285-1000</string>
+    <string name="phone_brooklynSea">Phone: (206) 224-7000</string>
+    <string name="phone_metroGrill">Phone: (206) 624-3287</string>
+    <string name="phone_rockcreek">Phone: (206) 557-7532</string>
+    <string name="phone_taylorShellfish">Phone: (206) 501-4060</string>
+
+    <!--Displays the address for the restaurants within the "Restaurants Fragment"-->
+    <string name="address_crabPot">"\n\n1301 Alaskan Way Pier 57, Seattle, WA 98101 "</string>
+    <string name="address_sixSeven">"\n\n2411 Alaskan Way Pier 67, Seattle, WA 98121 "</string>
+    <string name="address_pikePlace">\n\n600 Pine St, Seattle, WA 98101</string>
+    <string name="address_hilltopAle">"\n\n2129 Queen Anne Ave N, Seattle, WA 98109 "</string>
+    <string name="address_ruthChris">\n\n727 Pine St, Seattle, WA 98101</string>
+    <string name="address_skycity">"\n\n400 Broad St., Seattle, WA 98109 "</string>
+    <string name="address_canilis">\n\n2576 Aurora Ave N, Seattle, WA 98109</string>
+    <string name="address_manekis">\n\n304 6th Ave S, Seattle, WA 98104</string>
+    <string name="address_palisadeR">\n\n2601 W Marina Pl, Seattle, WA 98199</string>
+    <string name="address_brooklyn">"\n\n1212 2nd Ave, Seattle, WA 98101 "</string>
+    <string name="address_metroGrill">\n\n820 2nd Ave, Seattle, WA 98104</string>
+    <string name="address_rockcreek">\n\n4300 Fremont Ave N, Seattle, WA 98103</string>
+    <string name="address_taylorShellfish">\n\n410 Occidental Ave S, Seattle, WA 98104</string>
+</resources>
